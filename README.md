@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Bem-vindo(a) ao meu perfil do GitHub <img width="40" src="https://media2.giphy.com/media/l4pTggBKz7vqqF9TO/giphy.gif"/>
 
-<!--
-**mi-santana/mi-santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre Mim
+Me chamo Milena e sou estudante de Desenvolvimento de Sotfware Full Stack na <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a>.
 
-Here are some ideas to get you started:
+*Tecnologias:* `HTML` `CSS` `JavaScript` `Photoshop`
+</br>
+*Aprendendo:* `APIs`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estatísticas do GitHub <img width="40" src="https://media0.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-santana&theme=jolly&show_icons=true&hide_border=true&bg_color=000000"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-santana&layout=compact&theme=jolly&hide_border=true&bg_color=000000"/>
