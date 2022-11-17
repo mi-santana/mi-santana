@@ -10,7 +10,7 @@ Viciada em séries/filmes/livros e apaixonada por animais 📺📚🐶
 
 ### Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode,photoshop)](https://skillicons.dev)
 
 ### Contato
 
