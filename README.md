@@ -2,7 +2,7 @@
 <hr>
 
 ### Sobre Mim
-Me chamo Milena, sou estudante de Desenvolvimento de Sotfware Full Stack na <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a> e aprendiz de UI Design.
+Me chamo Milena e sou estudante de Desenvolvimento de Sotfware Full Stack na <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a>.
 
 Sempre tive uma relação muito próxima às linguagens **HTML** e **CSS**, desde criança. A partir daí, meu objetivo tem sido aprimorar minhas habilidades e conquistar novos conhecimentos para atuar na área de Desenvolvimento Full Stack.
 
