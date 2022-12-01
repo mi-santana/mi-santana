@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo(a) ao meu perfil do GitHub <img width="40" src="https://media2.giphy.com/media/l4pTggBKz7vqqF9TO/giphy.gif"/>
 <hr>
 
-<img width="430px" align="right" src="https://media.giphy.com/media/Wp0ZtQjgViqR2/giphy.gif"/>
+<img width="450px" align="right" src="https://media.giphy.com/media/Wp0ZtQjgViqR2/giphy.gif"/>
 
 ### Sobre Mim
 Me chamo Milena e sou estudante de Desenvolvimento de Sotfware Full Stack na <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a>.
