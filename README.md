@@ -18,6 +18,26 @@ Viciada em séries/filmes/livros e apaixonada por animais 📺📚🐶
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571997017536)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlenasantanasantos@gmail.com)
 
+### Projetos
+
+<table>
+  <tr>
+    <td>
+    <a href="https://github.com/mi-santana/form-exercise" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mi-santana&repo=form-exercise&theme=jolly&hide_border=true&bg_color=000000"">
+    </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="https://github.com/mi-santana/calculator-exercise" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mi-santana&repo=calculator-exercise&theme=jolly&hide_border=true&bg_color=000000"">
+    </a>
+    </td>
+  </tr>
+</table>
+
 ### Estatísticas do GitHub
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-santana&theme=jolly&show_icons=true&hide_border=true&bg_color=000000"/>
