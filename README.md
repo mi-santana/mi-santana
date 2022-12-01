@@ -1,12 +1,15 @@
 ### Olá! Bem-vindo(a) ao meu perfil do GitHub <img width="40" src="https://media2.giphy.com/media/l4pTggBKz7vqqF9TO/giphy.gif"/>
 <hr>
 
+<img width="540px" align="right" src="https://media.giphy.com/media/Wp0ZtQjgViqR2/giphy.gif"/>
+
 ### Sobre Mim
 Me chamo Milena e sou estudante de Desenvolvimento de Sotfware Full Stack na <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a>.
 
-Sempre tive uma relação muito próxima às linguagens **HTML** e **CSS**, desde criança. A partir daí, meu objetivo tem sido aprimorar minhas habilidades e conquistar novos conhecimentos para atuar na área de Desenvolvimento Full Stack.
+Sempre tive uma relação muito próxima às linguagens **HTML** e **CSS**, desde criança. A partir daí, meu objetivo tem sido aprimorar minhas habilidades e conquistar novos conhecimentos para atuar na área de Desenvolvimento de Software.
 
-Viciada em séries/filmes/livros e apaixonada por animais 📺📚🐶
+- Viciada em séries & livros 📺📚
+- Apaixonada por animais 🐶
 
 ### Tecnologias
 
