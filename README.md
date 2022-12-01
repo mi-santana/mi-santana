@@ -8,8 +8,7 @@ Me chamo Milena e sou estudante de Desenvolvimento de Sotfware Full Stack na <a 
 
 Sempre tive uma relação muito próxima às linguagens **HTML** e **CSS**, desde criança. A partir daí, meu objetivo tem sido aprimorar minhas habilidades e conquistar novos conhecimentos para atuar na área de Desenvolvimento de Software.
 
-- Viciada em séries & livros 📺📚
-- Apaixonada por animais 🐶
+Viciada em séries & livros 📺📚 | Apaixonada por animais 🐶
 
 ### Tecnologias
 
