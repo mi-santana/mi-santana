@@ -10,17 +10,30 @@ Sempre tive uma relação muito próxima às linguagens **HTML** e **CSS**, desd
 
 Viciada em séries & livros 📺📚 | Apaixonada por animais 🐶
 
-### Tecnologias
+<div align="center">
+<h3>Tecnologias</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode,photoshop)](https://skillicons.dev)
+<div align="inline">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
+</div>
 
-### Contato
+<div align="center">
+<h3>Contato</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mi-santana/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571997017536)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlenasantanasantos@gmail.com)
+</div>
 
-### Estatísticas do GitHub
+<div align="center">
+<h3>Estatísticas do GitHub</h3>
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-santana&theme=jolly&show_icons=true&hide_border=true&bg_color=000000"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-santana&layout=compact&theme=jolly&hide_border=true&bg_color=000000"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mi-santana&theme=jolly&show_icons=true&hide_border=true&bg_color=000000"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-santana&layout=compact&theme=jolly&hide_border=true&bg_color=000000"/></div>
