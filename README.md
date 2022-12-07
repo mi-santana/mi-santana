@@ -32,7 +32,7 @@ Viciada em séries & livros 📺📚 | Apaixonada por animais 🐶
 </div>
 
 <div align="center">
-<h3>Projetos</h3>
+<h3>Projetos Recentes</h3>
 </div>
 
 | Visual | Breve Descrição |
