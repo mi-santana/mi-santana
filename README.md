@@ -38,6 +38,6 @@ Viciada em séries & livros 📺📚 | Apaixonada por animais 🐶
 
 <div align="center">
 <h3>Estatísticas do GitHub</h3>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=mi-santana&theme=jolly&show_icons=true&hide_border=true&bg_color=000000"/>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-santana&layout=compact&theme=jolly&hide_border=true&bg_color=000000"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=mi-santana&theme=jolly&show_icons=true&hide_border=true&bg_color=000000"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-santana&layout=compact&theme=jolly&hide_border=true&bg_color=000000"/>
 </div>
