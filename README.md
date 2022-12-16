@@ -8,7 +8,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlenasantanasantos@gmail.com)
 
 ### Sobre Mim
-Me chamo Milena e sou estudante de Desenvolvimento de Sotfware Full Stack na <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a>. Viciada em séries, leitora e apaixonada por animais. Sou do tipo de pessoa que adora desafios e é o que a programação me proporciona. Estou constantemente buscando por aperfeiçoamento e tenho como objetivo atuar na área de Desenvolvimento de Full Stack, Front-end ou Back-end.
+Me chamo Milena e sou estudante de Desenvolvimento de Sotfware Full Stack na <a target="_blank" href="https://cubos.academy/">**Cubos Academy**</a>.
+
+Sou do tipo de pessoa que adora desafios e é o que a programação tem me proporcionado. Estou constantemente buscando por aperfeiçoamento e tenho como objetivo atuar na área de Desenvolvimento de Software.
+
+Viciada em séries & livros 📺📚 | Apaixonada por animais 🐶
 
 <div align="center">
 <h3>Projetos Recentes</h3>
